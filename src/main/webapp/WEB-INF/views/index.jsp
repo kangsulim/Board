@@ -12,7 +12,7 @@
 </head>
 <body>
 	
-<h2>Hello World!</h2>
+<h1>게시판에 글을 작성만 할 수 있는 웹페이지</h1>
 <a href="${path}/board/boardfile">게시판</a>
 	
 </body>
